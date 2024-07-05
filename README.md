@@ -7,7 +7,7 @@
 <p align="center">Welcome to the AcademiX Document Portfolio repository!</p>
 
 ## Introduction
-AcademiX – an all-in-one student platform designed to supercharge learning. AcademiX combines powerful organization tools for managing homework and deadlines with a vibrant social hub for finding study groups and collaborating with classmates. Our platform also features gamified flashcards and quizzes to make studying fun and engaging, and on-demand tutoring to connect students with qualified instructors for personalized online sessions. AcademiX provides everything students need to succeed in one dynamic platform.
+AcademiX is an all-in-one platform designed to elevate learning. It combines powerful organization tools for managing homework and deadlines with a social hub for finding study groups. The platform features gamified flashcards and quizzes for engaging studying, alongside on-demand tutoring with qualified instructors. AcademiX is dedicated to providing everything students need to succeed in a single, dynamic platform.
   
 <p align="center">
   <img src="Assets/teamflux-logo.png" width="100" alt="Team Flux Logo">
