@@ -10,8 +10,8 @@ AcademiX is the ultimate student platform, blending powerful organization tools 
 <p align="center">
   <img src="Assets/teamflux-logo.png" width="100" alt="Team Flux Logo">
 </p>
-<h3 align="center">FLUX Developers</h3>
-<p align="center">We are the Flux Developers, creators of AcademiX! Team Flux emphasizes the concept of three individuals who are interconnected like puzzle pieces, symbolizing unity and teamwork.</p>
+# FLUX Developers
+We are the Flux Developers, creators of AcademiX! Team Flux emphasizes the concept of three individuals who are interconnected like puzzle pieces, symbolizing unity and teamwork.
 
 <h4 align="center">Members</h4>
 <p align="center">Ken Gyrro Acquiat</p>
