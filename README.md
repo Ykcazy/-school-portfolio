@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/" width="100" alt="AcademiX Logo"><br>
+  <img src="Assets/academix-logo" width="100" alt="AcademiX Logo"><br>
 </p>
 
 <h1 align="center">AcademiX Document Portfolio</h1>
@@ -21,7 +21,7 @@ AcademiX – an all-in-one student platform designed to supercharge learning. Ac
 ---
   
 <p align="center">
-  img src="Assets/" width="100" alt="Team Flux Logo">
+  <img src="Assets/teamflux-logo" width="100" alt="Team Flux Logo">
 </p>
 <h3 align="center">FLUX Developers</h3>
 <p align="center">We are the Flux Developers, creators of AcademiX! Team Flux emphasizes the concept of three individuals who are interconnected like puzzle pieces, symbolizing unity and teamwork.</p>
