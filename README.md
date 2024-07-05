@@ -8,17 +8,6 @@
 
 ## Introduction
 AcademiX – an all-in-one student platform designed to supercharge learning. AcademiX combines powerful organization tools for managing homework and deadlines with a vibrant social hub for finding study groups and collaborating with classmates. Our platform also features gamified flashcards and quizzes to make studying fun and engaging, and on-demand tutoring to connect students with qualified instructors for personalized online sessions. AcademiX provides everything students need to succeed in one dynamic platform.
-
-## Contents
-- Assets: Includes resources utilized in this repository.
-- Coursera Certificates: Certifications earned by team members.
-- User Manual: Instructions for navigating and fully utilizing the features of our app prototype.
-- Part 1: Documents from the initial phase.
-- Part 2: Documents from the second phase.
-- Part 3: Documents from the third phase.
-- Part 4: Documents from the final phase and project completion.
-
----
   
 <p align="center">
   <img src="Assets/teamflux-logo.png" width="100" alt="Team Flux Logo">
