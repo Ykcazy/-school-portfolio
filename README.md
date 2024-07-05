@@ -6,7 +6,7 @@
   <img src="Assets/academix-logo.png" width="300" alt="AcademiX Logo"><br>
 </p>
 
-AcademiX is the ultimate student platform, blending powerful organization tools with a lively social hub. It helps manage homework, deadlines, and connects you with study groups. Enjoy gamified flashcards and quizzes for fun learning, plus on-demand tutoring with qualified instructors for personalized help. Everything you need to succeed, all in one place!
+In this portfolio you will see our project which is AcademiX. AcademiX is the ultimate student platform, blending powerful organization tools with a lively social hub. It helps manage homework, deadlines, and connects you with study groups. Enjoy gamified flashcards and quizzes for fun learning, plus on-demand tutoring with qualified instructors for personalized help. Everything you need to succeed, all in one place!
   
 
 
