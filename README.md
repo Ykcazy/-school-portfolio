@@ -4,8 +4,6 @@
 
 <h1 align="center">AcademiX Document Portfolio</h1>
 
-<p align="center">Welcome to the AcademiX Document Portfolio repository!</p>
-
 ## Introduction
 AcademiX is the ultimate student platform, blending powerful organization tools with a lively social hub. It helps manage homework, deadlines, and connects you with study groups. Enjoy gamified flashcards and quizzes for fun learning, plus on-demand tutoring with qualified instructors for personalized help. Everything you need to succeed, all in one place!
   
